@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-inventory-ledger-react-inertia",
+  "capabilityKey": "planned:ecommerce:inventory-ledger",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-ecommerce-inventory-ledger-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/ecommerce/nextjs/inventory-ledger.md",
+  "presentationPlan": "projects/ecommerce/react/inventory-ledger.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
